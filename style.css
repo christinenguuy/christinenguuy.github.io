@@ -1,1 +1,10 @@
+h1 {
+  color:red;
+}
 
+p {
+  color:#b39605;
+  border-width:10px;
+  border-style:outset;
+  border-color:#ff5703;
+}
