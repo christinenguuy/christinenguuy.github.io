@@ -8,3 +8,8 @@ p {
   background-color:linen;
   font-size:12px;
 }
+
+img {
+  width: 90%;
+  height: auto;
+}
