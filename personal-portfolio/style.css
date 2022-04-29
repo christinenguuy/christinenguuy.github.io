@@ -28,7 +28,12 @@ img {
 }
 
 header {
+    padding: 50px;
     text-align:center;
     background:#89c0fa;
     color:#f5c876;
 }
+
+body {
+ text-align: center;
+ }
