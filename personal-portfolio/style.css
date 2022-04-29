@@ -21,3 +21,8 @@ p {
   color:#f5a276;
   font-size:24px;
 }
+
+img {
+  width: 50%;
+  height: auto;
+}
